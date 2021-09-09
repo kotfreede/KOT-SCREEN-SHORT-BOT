@@ -15,7 +15,7 @@ async def start(c, m):
             [
                 [
                     InlineKeyboardButton(
-                        "Source 😒", url="https://github.com/odysseusmax/animated-lamp"
+                        "Source 😒", url="https://github.com/kotfreede/KOT-SCREEN-SHORT-BOT"
                     ),
                     InlineKeyboardButton("Project Channel", url="https://t.me/KOT_BOTS"),
                 ],
